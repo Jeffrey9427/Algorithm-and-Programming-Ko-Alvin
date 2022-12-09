@@ -1,0 +1,10 @@
+Machine learning is the ability of machines 
+to predict outcomes without being explicitly 
+programmed to do so. It is about creating and 
+implementing algorithms that let machines 
+receive data and use this data to:
+• Make predictions
+• Analyse patterns
+• Give recommendations
+AI simulates human knowledge and decision making with computers. 
+Humans have managed to reach AI through machine and deep learning.
